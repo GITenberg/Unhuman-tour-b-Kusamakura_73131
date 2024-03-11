@@ -1,0 +1,36 @@
+_repo: Unhuman-tour-b-Kusamakura_73131
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Takahashi, Kazutomo
+    gutenberg_agent_id: '56953'
+    url: http://www.gutenberg.org/2009/agents/56953
+creator:
+  author:
+    agent_name: Natsume, Soseki
+    aliases:
+    - 夏目 漱石
+    - Natsume, Kinnosuke
+    birthdate: 1867
+    deathdate: 1916
+    gutenberg_agent_id: '2905'
+    url: http://www.gutenberg.org/2009/agents/2905
+    wikipedia: https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki
+description: ''
+gutenberg_issued: '2024-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73131'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001184845
+pgterms:marc905: 20240224133441natsume
+pgterms:marc906: '1927'
+pgterms:marc907: jp
+publication_note: '  $aJapan :$bThe Japan Times, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Unhuman tour : $b Kusamakura'
+url: http://www.gutenberg.org/ebooks/73131
