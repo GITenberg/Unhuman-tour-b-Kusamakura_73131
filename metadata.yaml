@@ -5,6 +5,9 @@ contributor:
     agent_name: Takahashi, Kazutomo
     gutenberg_agent_id: '56953'
     url: http://www.gutenberg.org/2009/agents/56953
+covers:
+- cover_type: archival
+  image_path: 73131-h/images/cover.png
 creator:
   author:
     agent_name: Natsume, Soseki
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2905
     wikipedia: https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73131#Unhuman-tour-b-Kusamakura
 gutenberg_issued: '2024-03-10'
 gutenberg_type: Text
 identifiers:
